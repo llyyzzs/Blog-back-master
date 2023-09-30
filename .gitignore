@@ -1,0 +1,12 @@
+# 项目排除路径
+/node_modules/
+/target/
+/.fleet/
+/.idea/
+/log/
+LeoBlog.iml
+/src/main/resources/static/source/upload/
+/src/main/resources/static/source/upload/images/
+/src/main/resources/application-dev.yml
+/src/main/resources/application-pro.yml
+/src/test/
